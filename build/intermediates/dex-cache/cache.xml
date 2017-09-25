@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aluko\.android\build-cache\0ab076cef5f7b1edd5213f8cb27f88513dd8305e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Aluko\AndroidStudioProjects\ud839_Miwok-Starter-code\AlarmClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f06e6bae6fff68305d7679f92d3c67b4b1950b15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aluko\AndroidStudioProjects\ud839_Miwok-Starter-code\AlarmClock\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d91068fa857136e2f52d8b41e108e857ad6365c2">
+        <dex dex="C:\Users\Aluko\AndroidStudioProjects\ud839_Miwok-Starter-code\AlarmClock\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ee5ad4662cb3aa5d188185a7e0bea79399c39494\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aluko\.android\build-cache\64750009fadff5a39b67a8a9fd1c9c3513d95167\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Aluko\AndroidStudioProjects\ud839_Miwok-Starter-code\AlarmClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e016af5bd01c700a0bbacc390951c8641f1b38a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aluko\.android\build-cache\4302d8823bd228944f520278ead51c469222c98a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Aluko\AndroidStudioProjects\ud839_Miwok-Starter-code\AlarmClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_651b81df54e988cd7ffcabb91d0b3d355e7f903e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aluko\.android\build-cache\35437bea632b26177dd77c71ab7b3c02ffae8e7f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Aluko\AndroidStudioProjects\ud839_Miwok-Starter-code\AlarmClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f136115f7e1a9e108bc0151072bf8ca06c08fc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aluko\.android\build-cache\65f240f096ef704caebc2da47061461c5d3d191c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Aluko\AndroidStudioProjects\ud839_Miwok-Starter-code\AlarmClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_15afcdb5ca891ab992e10a0d477f0568b32170ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aluko\.android\build-cache\5112aeea90e44f0cca14b19cb8ce9e8d802f205a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Aluko\AndroidStudioProjects\ud839_Miwok-Starter-code\AlarmClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0d7ca19e52e609cf98b665bd5bbbdcf6cd37cd82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aluko\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Aluko\AndroidStudioProjects\ud839_Miwok-Starter-code\AlarmClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_1eb333145bf3c668333655fc6a380112d9e88937\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aluko\.android\build-cache\114c2e77190a281eb3566e47a7788e89280ded2e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Aluko\AndroidStudioProjects\ud839_Miwok-Starter-code\AlarmClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b322a5788546822e4099e7525fb6e6bb419ef22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aluko\AndroidStudioProjects\ud839_Miwok-Starter-code\AlarmClock\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Aluko\AndroidStudioProjects\ud839_Miwok-Starter-code\AlarmClock\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1f21b5320a4d78e9e45c793ece4eb6954ee68d75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aluko\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Aluko\AndroidStudioProjects\ud839_Miwok-Starter-code\AlarmClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_1ce42f44ac347b636f957ed5865ce5e018df2520\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aluko\.android\build-cache\bcf10a060048cdd16feb8b2bd1e5e83138f708fd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Aluko\AndroidStudioProjects\ud839_Miwok-Starter-code\AlarmClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d47f95ca1adbb46e2bfb4e929e59f9a02430fc3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aluko\.android\build-cache\472dcb2e399e1480d9a2c95689d8f7b757f6641d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Aluko\AndroidStudioProjects\ud839_Miwok-Starter-code\AlarmClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a1a9ea760ccf209ef6e482a34fd3ca1971de73a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aluko\.android\build-cache\033142a7f9331320e8083c47bfd7c0f722f82aed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Aluko\AndroidStudioProjects\ud839_Miwok-Starter-code\AlarmClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_45db9b554f2dcf0e0e6b0b67e69b411a3a11ea81\classes.dex" />
+    </item>
+
+</items>
